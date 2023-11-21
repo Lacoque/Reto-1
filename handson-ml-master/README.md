@@ -1,5 +1,5 @@
 Machine Learning Notebooks
-==========================
+
 
 # ⚠ THE <a href="https://github.com/ageron/handson-ml3">THIRD EDITION OF MY BOOK</a> IS NOW AVAILABLE.
 
