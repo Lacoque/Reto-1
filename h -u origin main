@@ -1,0 +1,104 @@
+[33mcommit e1609d7870087a925caaaa23bce79a1257974557[m[33m ([m[1;36mHEAD -> [m[1;32mA[m[33m)[m
+Author: Lacoque <pamela.lacoquex@gmail.com>
+Date:   Wed Nov 22 23:19:20 2023 -0300
+
+    documento nuevo de la rama A
+
+[33mcommit 60dfea3b26f576f03cb50126db7b4437919b7a97[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Lacoque <86578178+Lacoque@users.noreply.github.com>
+Date:   Wed Nov 22 20:23:33 2023 -0300
+
+    Delete documentonuevoA
+
+[33mcommit 788a15090d3367c9a66302d83dca613390c0d8bf[m
+Author: Lacoque <86578178+Lacoque@users.noreply.github.com>
+Date:   Wed Nov 22 20:23:22 2023 -0300
+
+    Delete docB
+
+[33mcommit 8c72b67a67d5f8cbc3c8b53929f48b8d3f9fabaf[m
+Author: Lacoque <86578178+Lacoque@users.noreply.github.com>
+Date:   Tue Nov 21 17:28:50 2023 -0300
+
+    Update README.md
+
+[33mcommit a92bc2de2a316ab199507cd4be25cbda643de87a[m
+Merge: 6aba83d 9e7a9c6
+Author: Lacoque <86578178+Lacoque@users.noreply.github.com>
+Date:   Tue Nov 21 12:42:44 2023 -0300
+
+    Merge pull request #5 from Lacoque/"A"
+    
+    CreatedocumentonuevoA
+
+[33mcommit 6aba83dcb3d94af1b04a2c0e203831115935eaa5[m
+Merge: e994982 e2f811b
+Author: Lacoque <86578178+Lacoque@users.noreply.github.com>
+Date:   Tue Nov 21 12:42:26 2023 -0300
+
+    Merge pull request #6 from Lacoque/B
+    
+    Create docB
+
+[33mcommit e2f811bc5732a5286fa368686ea31e2b0402484b[m
+Author: Lacoque <86578178+Lacoque@users.noreply.github.com>
+Date:   Tue Nov 21 12:40:22 2023 -0300
+
+    Create docB
+    
+    resolucion
+
+[33mcommit 9e7a9c66f514332f255a42b7861f32e0baccede3[m
+Author: Lacoque <86578178+Lacoque@users.noreply.github.com>
+Date:   Tue Nov 21 12:34:01 2023 -0300
+
+    Create documentonuevoA
+    
+    Trabajo en paralelo y resolución de conflictos
+
+[33mcommit e994982b6d92ad9eed2ae27ddf4b9982fcd315b1[m
+Merge: 9122ca2 f720309
+Author: Lacoque <86578178+Lacoque@users.noreply.github.com>
+Date:   Fri Nov 10 10:38:32 2023 -0300
+
+    Merge pull request #2 from Lacoque/ramaC2
+    
+    Update requirements.txt
+
+[33mcommit f720309a25f2ab333bf671c357889671ba9fc30e[m[33m ([m[1;31morigin/ramaC2[m[33m)[m
+Author: Lacoque <86578178+Lacoque@users.noreply.github.com>
+Date:   Fri Nov 10 10:34:33 2023 -0300
+
+    Update requirements.txt
+    
+    actualizacion de version de numpy a 1.21.4
+
+[33mcommit 9122ca25b9888ed3fd4e5b697887318ce8ae325a[m
+Author: Lacoque <86578178+Lacoque@users.noreply.github.com>
+Date:   Thu Nov 9 19:34:06 2023 -0300
+
+    arch RockingData
+
+[33mcommit 73b9f48b5a02367a3aa9702484f0f45826aaeca6[m
+Author: Lacoque <86578178+Lacoque@users.noreply.github.com>
+Date:   Thu Nov 9 19:30:18 2023 -0300
+
+    readme
+
+[33mcommit 3e4a15b59f0222f533adda8833a35831fcda5631[m
+Author: Lacoque <86578178+Lacoque@users.noreply.github.com>
+Date:   Thu Nov 9 19:29:31 2023 -0300
+
+    Delete DN_COM_22 Handson-ml-master.zip
+
+[33mcommit d58e17d72c6877d27fa5bc9bc366d2b0aa5d464a[m
+Author: Lacoque <86578178+Lacoque@users.noreply.github.com>
+Date:   Thu Nov 9 19:28:37 2023 -0300
+
+    arch RockingData
+
+[33mcommit f4c8d0c990f1f724f8eba0366da73d4c2abc50ff[m
+Author: Lacoque <86578178+Lacoque@users.noreply.github.com>
+Date:   Thu Nov 9 18:42:04 2023 -0300
+
+    Initial commit
